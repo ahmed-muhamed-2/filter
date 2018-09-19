@@ -1,6 +1,18 @@
 {
-  "name": "",
-  "version": "",
+  "name": "dom-item",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "browser-sync start --server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-ahmed-muhamed-2:ahmed-muhamed-2/filter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.24.7"
   }
